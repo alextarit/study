@@ -1,5 +1,4 @@
-# iate-prg-course-2021-ZDD
-This repository holds my programs, which are checked by Dmitry Legchikov.
+# iate-prg-course-2021
 myFib.py - 2.2.6
 myFib2.py - 2.2.7
 myFib3.py - 2.2.8
